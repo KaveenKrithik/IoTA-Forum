@@ -1,7 +1,7 @@
 .dashboard-container {
     padding: 20px;
     background-color: pink; 
-    color: #f5f5f5;
+    color: #9f2727;
     font-family: Arial, sans-serif;
     display: flex;
     flex-direction: column;
@@ -35,7 +35,7 @@ h2 {
 
 .post-button {
     padding: 10px;
-    background-color: #0077ff;
+    background-color: #ff00b3;
     color: white;
     border: none;
     border-radius: 5px;
